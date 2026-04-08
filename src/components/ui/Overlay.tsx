@@ -10,6 +10,7 @@ interface Props {
 }
 
 export default function Overlay({ state, update, reset }: Props) {
+  }
   return (
     <div className="fixed inset-0 pointer-events-none z-10">
 
